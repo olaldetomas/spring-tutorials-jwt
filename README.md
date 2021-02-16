@@ -1,2 +1,2 @@
-# spring-tutorials-jwt
-Authentication with auth0 
+# spring-tutorials
+Bad morning
