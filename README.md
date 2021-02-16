@@ -1,2 +1,2 @@
-# spring-tutorials
-Bad morning
+# spring-tutorials-jwt
+Demo authentication with JWT 
